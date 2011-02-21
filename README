@@ -1,0 +1,17 @@
+Hello there.
+
+Google Calendar is marvellous. But you might want to use it on your own website, to show something handy like your own calendar for, say, speaking engagements or something. Sure beats editing HTML. Well, here's how I did it.
+
+Configure your Google Calendar
+- Find the Google Calendar you want to publish in the 'Calendars' tab (lower left of the Calendar homepage).
+- Click the down-arrow next to it, and choose 'Calendar Settings'.
+- Scroll down to 'Private Calendar Address'.
+- Right-click the XML button and copy the URL
+
+This version is placed on GIT because @samstarling told me to. I don't really know what I'm doing. If I've forgotten, then you'll also find this code at http://james.cridland.net/code/google-calendar.html instead.
+
+And there's an example of it working at http://james.cridland.net/speaking if you want to take a look.
+
+Good.
+
+//j
